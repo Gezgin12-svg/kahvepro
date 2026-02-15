@@ -1,6 +1,3 @@
-# kahvepro
-# kahvepro
-
 <h1>
 🎯 Genel Bakış</h1>
 <p>Kahve Pro, modern web teknolojileri kullanılarak geliştirilmiş, kullanıcı dostu ve responsive bir kahve web sitesidir. Proje, temiz kod yapısı ve estetik tasarımıyla dikkat çekmektedir.
